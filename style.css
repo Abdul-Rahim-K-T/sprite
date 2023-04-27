@@ -1,0 +1,244 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.container{
+  margin-left: 30px;
+  margin-right: 30px;
+  
+
+}
+header{
+  width: 100%;
+  background-color: #009b4e;
+  height: 90px;
+  position: sticky;
+  top: 0px;
+}
+.logo{
+  margin-top: 20px;
+  margin-left: 14px;
+  height: 50px;
+  width: 125px;
+
+}
+.details{
+  color: white;
+  padding-top: 32px;
+font-size: 16px;
+margin: top 130px;
+font-weight: bold;
+font-style:initial;
+}
+.products{
+  width: 10px;
+  text-decoration: none;
+  color: white;
+  padding-left: 30px;
+
+}
+.spritezerosugar{
+  text-decoration: none;
+  color: white;
+  padding-left: 30px;
+  
+}
+.thecreators{
+  text-decoration: none;
+  color: white;
+  padding-left: 30px;
+}
+.buynow{
+  text-decoration: none;
+  color: white;
+  padding-left: 30px;
+}
+.followsocialmedia{
+  
+  font-size: 25px;
+  margin-left: 400px;
+  margin-top: 15px;
+}
+
+.followsocialmedia ul li{
+  list-style: none;
+  display: inline;
+  margin-inline: 10px;
+  border-radius: 100%;
+
+}
+.cap1{
+  padding-top: 35px;
+  height: 676.88px;
+  width: 100%;
+  
+  background-color: #d7d9e8;
+  margin-right: 0%;
+}
+.cap1 img{
+  width: 80%;
+}
+#image1{
+  width: 100%;
+  height: 400px;
+  float: left;
+}
+.txth1{
+  font-size: xx-large;
+  width: 90%;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.texth2{
+  text-align: center;
+  width: 90%;
+font-weight: bolder;
+margin-left: 35px;
+margin-right: 35px;
+align-items: center;
+  
+}
+.txth3{
+  font-weight: 100;
+  font-size: 10px;
+  align-items: center;
+  justify-content: center;
+  
+}
+.texth21{
+ 
+  display: flex;
+  justify-content: center;
+}
+
+.second-section{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 50vh;
+  margin: 50px 0 ;
+}
+.left-2{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.right-2 button{
+  background-color: #ffd100;
+  border: none;
+  padding: 10px 60px;
+  font-weight: 700;
+  font-size: 16px;
+}
+.right-2 button:hover{
+  color:white;
+  background-color: black;
+  
+
+}
+.right-2{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  
+  
+}
+
+.right-2 h1{
+  font-size: 60px;
+  margin-top: -30px;
+  
+}
+.right-2 p{
+  margin-top: -40px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.left-3{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.left-3 p{
+  letter-spacing: -3px;
+  font-size: 50px;
+  font-weight: 900;
+  color: #009639;
+}
+.right-3{
+  width:50%;
+  float: right;
+}
+.right-3 image2{
+  width: 0%;
+}
+#image2{
+  width: 650px;
+  margin-top: -350px;
+}
+footer{
+  width: 100%;
+  background-color:#009b4e;
+  height: 390px;
+  margin-top: 93px;
+  background-color: #009b4e;
+}
+.logofoot{
+  position: relative;
+  width: 9%;
+  margin-left: 186px;
+  margin-top: 113px;
+}
+.footikon{
+  font-size: 25px;
+  margin-left: 400px;
+  margin-top: 15px;
+}
+.footikon ul li{
+  list-style: none;
+  display: inline;
+  margin-inline: 10px;
+  border-radius: 100%;
+  letter-spacing: -8px;
+}
+.connect{
+  color: white;
+  font-size: 16px;
+  font-weight: 900;
+  margin-right: 10px;
+  margin-left: 80px;
+  
+}
+.footikon{
+  margin-top: -110px;
+  letter-spacing: -0.2px;
+  margin-right: 200px;
+}
+.footdetails ul{
+  list-style-type: none; 
+  font-weight: 1000;
+  color: white;
+  float: right;
+  margin-right: 400px;
+  margin-top:-150px ;
+  line-height: 40px;
+  letter-spacing: -1;
+  font-size: small;
+}
+.cpyright{
+  font-size: 13px;
+  color: white;
+  font-weight: bolder;
+  padding-left: 500px;
+  padding-top: 100px;
+}
+.tc{
+  color:white ;
+  letter-spacing: -0.1px;
+  padding-left: 200px;
+  font-weight: bolder;
+}
